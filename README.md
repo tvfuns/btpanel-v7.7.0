@@ -46,7 +46,7 @@ chattr +i /www/server/panel/data/plugin.json
 ```
 wget -O /tmp/bt.zip https://github.com/woniu336/btpanel-v7.7.0/raw/main/bt/bt.zip
 ```
-解压文件并合并到目标目录
+解压文件并合并到目标目录 (选A 同意覆盖所有)
 ```
 unzip -u /tmp/bt.zip -d /www/server/panel/BTPanel/templates/default
 ```
@@ -57,6 +57,10 @@ unzip -u /tmp/bt.zip -d /www/server/panel/BTPanel/templates/default
 rm /tmp/bt.zip
 ```
 
-### 最后记得重启面板
+### 最后重启面板生效
+
+完结撒花🤡
+
+fuck bt 🤡🤡🤡
 
 <p>
