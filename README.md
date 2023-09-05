@@ -1,11 +1,9 @@
 
-## 为什么选择了版本号 7.7.0 而非其他版本呢？这个版本之所以被选中，是因为它并不过于陈旧，也没有太多限制，同时具备一定的破解潜力。
-
 ### 一键安装7.7版本
 
 适用 Centos/Ubuntu/Debian
 
-```shell
+```
 curl -sSO https://raw.githubusercontent.com/woniu336/btpanel-v7.7.0/main/install/install_panel.sh && bash install_panel.sh
 ```
 
@@ -58,5 +56,7 @@ unzip -u /tmp/bt.zip -d /www/server/panel/BTPanel/templates/default
 ```
 rm /tmp/bt.zip
 ```
+
+### 最后记得重启面板
 
 <p>
