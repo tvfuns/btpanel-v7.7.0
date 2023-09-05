@@ -1,0 +1,7 @@
+路径
+/www/server/panel/BTPanel/templates/default
+
+直接上传覆盖
+
+只针对7.7版本
+
